@@ -87,9 +87,7 @@ Follow these steps to get started with GenRec:
 4. **Explore and Contribute:**
     Feel free to explore the codebase and contribute to the project. Check out the [contribution guidelines](CONTRIBUTING.md) for more information.
 
-## Contributors
-- John Doe (@johndoe)
-- Jane Smith (@janesmith)
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
