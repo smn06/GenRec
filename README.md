@@ -71,7 +71,7 @@ Follow these steps to get started with GenRec:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/GenRec.git
+    git clone https://github.com/smn06/GenRec.git
     ```
 
 2. **Install Dependencies:**
