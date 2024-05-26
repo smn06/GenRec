@@ -1,6 +1,45 @@
 # local package
 -e .
+# Python Standard Library
+os
+sys
+csv
+json
+random
+datetime
+collections
+math
+glob
 
+# Data Manipulation and Analysis
+pandas
+numpy
+scipy
+
+# Machine Learning and Deep Learning
+torch
+torchvision
+scikit-learn
+tensorflow
+keras
+statsmodels
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# Utilities and Miscellaneous
+argparse
+pyyaml
+logging
+pillow
+requests
+
+# Testing
+pytest
+unittest
+mock
 # external requirements
 click
 Sphinx
